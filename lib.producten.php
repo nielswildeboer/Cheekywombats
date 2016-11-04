@@ -1,0 +1,10 @@
+<?php
+	include(inc.header.php);
+	include(inc.footer.php);
+?>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
